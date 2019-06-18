@@ -2,9 +2,7 @@
 Do baby talk with mycroft
 
 ## About
-Communicate to mycroft as if you
-
-'re talking to a baby.
+Communicate to mycroft as if you're talking to a baby.
 
 ## Examples
 * "Beautiful eyes!"
